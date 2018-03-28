@@ -1,0 +1,16 @@
+[
+{
+  "modid": "agexpreborn",
+  "name": "Agricultural Expansion Reborn",
+  "description": "Remake of Agricultural Expansion using original textures.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TreehawkMods"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

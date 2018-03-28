@@ -1,0 +1,50 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cross"
+	},
+	"variants": {
+		"age": {
+			"0": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop0"
+				}
+			},
+			"1": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop1"
+				}
+			},
+			"2": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop2"
+				}
+			},
+			"3": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop3"
+				}
+			},
+			"4": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop4"
+				}
+			},
+			"5": {
+				"textures": {
+					"cross": "agexpreborn:blocks/crop5"
+				}
+			},
+			"6": {
+				"textures": {
+					"cross": "agexpreborn:blocks/tanzanite_crop6"
+				}
+			},
+			"7": {
+				"textures": {
+					"cross": "agexpreborn:blocks/tanzanite_crop7"
+				}
+			}
+		}
+	}
+}
