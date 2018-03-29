@@ -116,6 +116,14 @@ public class ModCrops {
         public Item getCrop(){return ModItems.cobaltEssence;}
     }
 
+    public static class ConstantanCrop extends ModCrop {
+        public ConstantanCrop(String name){super(name);}
+        @Override
+        public Item getSeed(){return ModItems.constantanSprout;}
+        @Override
+        public Item getCrop(){return ModItems.constantanEssence;}
+    }
+
     public static class CopperCrop extends ModCrop {
         public CopperCrop(String name){super(name);}
         @Override
@@ -186,6 +194,14 @@ public class ModCrops {
         public Item getSeed(){return ModItems.endermanSprout;}
         @Override
         public Item getCrop(){return ModItems.endermanEssence;}
+    }
+
+    public static class EnderiumCrop extends ModCrop {
+        public EnderiumCrop(String name){super(name);}
+        @Override
+        public Item getSeed(){return ModItems.enderiumSprout;}
+        @Override
+        public Item getCrop(){return ModItems.enderiumEssence;}
     }
 
     public static class ExperienceCrop extends ModCrop {
@@ -284,6 +300,14 @@ public class ModCrops {
         public Item getCrop(){return ModItems.leadEssence;}
     }
 
+    public static class LumiumCrop extends ModCrop {
+        public LumiumCrop(String name){super(name);}
+        @Override
+        public Item getSeed(){return ModItems.lumiumSprout;}
+        @Override
+        public Item getCrop(){return ModItems.lumiumEssence;}
+    }
+
     public static class MalachiteCrop extends ModCrop {
         public MalachiteCrop(String name){super(name);}
         @Override
@@ -322,6 +346,14 @@ public class ModCrops {
         public Item getSeed(){return ModItems.nickelSprout;}
         @Override
         public Item getCrop(){return ModItems.nickelEssence;}
+    }
+
+    public static class OilCrop extends ModCrop {
+        public OilCrop(String name){super(name);}
+        @Override
+        public Item getSeed(){return ModItems.oilSprout;}
+        @Override
+        public Item getCrop(){return ModItems.oilEssence;}
     }
 
     public static class PeridotCrop extends ModCrop {
@@ -411,6 +443,14 @@ public class ModCrops {
         public Item getSeed(){return ModItems.shulkerSprout;}
         @Override
         public Item getCrop(){return ModItems.shulkerEssence;}
+    }
+
+    public static class SignalumCrop extends ModCrop {
+        public SignalumCrop(String name){super(name);}
+        @Override
+        public Item getSeed(){return ModItems.signalumSprout;}
+        @Override
+        public Item getCrop(){return ModItems.signalumEssence;}
     }
 
     public static class SilverCrop extends ModCrop {

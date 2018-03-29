@@ -21,6 +21,7 @@ public class ModBlocks {
     public static ModCrop chickenCrop = new ModCrops.ChickenCrop("chicken_crop");
     public static ModCrop coalCrop = new ModCrops.CoalCrop("coal_crop");
     public static ModCrop cobaltCrop = new ModCrops.CobaltCrop("cobalt_crop");
+    public static ModCrop constantanCrop = new ModCrops.ConstantanCrop("constantan_crop");
     public static ModCrop copperCrop = new ModCrops.CopperCrop("copper_crop");
     public static ModCrop cowCrop = new ModCrops.CowCrop("cow_crop");
     public static ModCrop creeperCrop = new ModCrops.CreeperCrop("creeper_crop");
@@ -30,6 +31,7 @@ public class ModBlocks {
     public static ModCrop electrumCrop = new ModCrops.ElectrumCrop("electrum_crop");
     public static ModCrop emeraldCrop = new ModCrops.EmeraldCrop("emerald_crop");
     public static ModCrop endermanCrop = new ModCrops.EndermanCrop("enderman_crop");
+    public static ModCrop enderiumCrop = new ModCrops.EnderiumCrop("enderium_crop");
     public static ModCrop experienceCrop = new ModCrops.ExperienceCrop("experience_crop");
     public static ModCrop fireCrop = new ModCrops.FireCrop("fire_crop");
     public static ModCrop fishCrop = new ModCrops.FishCrop("fish_crop");
@@ -42,11 +44,13 @@ public class ModBlocks {
     public static ModCrop ironCrop = new ModCrops.IronCrop("iron_crop");
     public static ModCrop lapisCrop = new ModCrops.LapisCrop("lapis_crop");
     public static ModCrop leadCrop = new ModCrops.LeadCrop("lead_crop");
+    public static ModCrop lumiumCrop = new ModCrops.LumiumCrop("lumium_crop");
     public static ModCrop malachiteCrop = new ModCrops.MalachiteCrop("malachite_crop");
     public static ModCrop manyullynCrop = new ModCrops.ManyullynCrop("manyullyn_crop");
     public static ModCrop natureCrop = new ModCrops.NatureCrop("nature_crop");
     public static ModCrop netherCrop = new ModCrops.NetherCrop("nether_crop");
     public static ModCrop nickelCrop = new ModCrops.NickelCrop("nickel_crop");
+    public static ModCrop oilCrop = new ModCrops.OilCrop("oil_crop");
     public static ModCrop peridotCrop = new ModCrops.PeridotCrop("peridot_crop");
     public static ModCrop pigCrop = new ModCrops.PigCrop("pig_crop");
     public static ModCrop platinumCrop = new ModCrops.PlatinumCrop("platinum_crop");
@@ -58,6 +62,7 @@ public class ModBlocks {
     public static ModCrop sapphireCrop = new ModCrops.SapphireCrop("sapphire_crop");
     public static ModCrop sheepCrop = new ModCrops.SheepCrop("sheep_crop");
     public static ModCrop shulkerCrop = new ModCrops.ShulkerCrop("shulker_crop");
+    public static ModCrop signalumCrop = new ModCrops.SignalumCrop("signalum_crop");
     public static ModCrop silverCrop = new ModCrops.SilverCrop("silver_crop");
     public static ModCrop skeletonCrop = new ModCrops.SkeletonCrop("skeleton_crop");
     public static ModCrop slimeCrop = new ModCrops.SlimeCrop("slime_crop");
@@ -93,6 +98,7 @@ public class ModBlocks {
                 chickenCrop,
                 coalCrop,
                 cobaltCrop,
+                constantanCrop,
                 copperCrop,
                 cowCrop,
                 creeperCrop,
@@ -102,6 +108,7 @@ public class ModBlocks {
                 electrumCrop,
                 emeraldCrop,
                 endermanCrop,
+                enderiumCrop,
                 experienceCrop,
                 fireCrop,
                 fishCrop,
@@ -114,11 +121,13 @@ public class ModBlocks {
                 ironCrop,
                 lapisCrop,
                 leadCrop,
+                lumiumCrop,
                 malachiteCrop,
                 manyullynCrop,
                 natureCrop,
                 netherCrop,
                 nickelCrop,
+                oilCrop,
                 peridotCrop,
                 pigCrop,
                 platinumCrop,
@@ -130,6 +139,7 @@ public class ModBlocks {
                 sapphireCrop,
                 sheepCrop,
                 shulkerCrop,
+                signalumCrop,
                 silverCrop,
                 skeletonCrop,
                 slimeCrop,

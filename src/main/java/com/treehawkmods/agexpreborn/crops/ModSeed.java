@@ -9,7 +9,7 @@ public class ModSeed extends ItemSeeds{
 
     public ModSeed(String name, BlockCrops crops) {
         super(crops, Blocks.FARMLAND);
-        setUnlocalizedName(name);
+        setUnlocalizedName(AgExpReborn.MODID + "." + name);
         setRegistryName(name);
         setCreativeTab(AgExpReborn.MODTAB);
     }

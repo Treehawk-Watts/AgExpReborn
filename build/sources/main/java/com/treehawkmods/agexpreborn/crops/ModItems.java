@@ -24,6 +24,7 @@ public class ModItems {
     public static ModItem chickenEssence = new ModItem("chicken_essence");
     public static ModItem coalEssence = new ModItem("coal_essence");
     public static ModItem cobaltEssence = new ModItem("cobalt_essence");
+    public static ModItem constantanEssence = new ModItem("constantan_essence");
     public static ModItem copperEssence = new ModItem("copper_essence");
     public static ModItem cowEssence = new ModItem("cow_essence");
     public static ModItem creeperEssence = new ModItem("creeper_essence");
@@ -33,6 +34,7 @@ public class ModItems {
     public static ModItem electrumEssence = new ModItem("electrum_essence");
     public static ModItem emeraldEssence = new ModItem("emerald_essence");
     public static ModItem endermanEssence = new ModItem("enderman_essence");
+    public static ModItem enderiumEssence = new ModItem("enderium_essence");
     public static ModItem experienceEssence = new ModItem("experience_essence");
     public static ModItem fireEssence = new ModItem("fire_essence");
     public static ModItem fishEssence = new ModItem("fish_essence");
@@ -45,11 +47,13 @@ public class ModItems {
     public static ModItem ironEssence = new ModItem("iron_essence");
     public static ModItem lapisEssence = new ModItem("lapis_essence");
     public static ModItem leadEssence = new ModItem("lead_essence");
+    public static ModItem lumiumEssence = new ModItem("lumium_essence");
     public static ModItem malachiteEssence = new ModItem("malachite_essence");
     public static ModItem manyullynEssence = new ModItem("manyullyn_essence");
     public static ModItem natureEssence = new ModItem("nature_essence");
     public static ModItem netherEssence = new ModItem("nether_essence");
     public static ModItem nickelEssence = new ModItem("nickel_essence");
+    public static ModItem oilEssence = new ModItem("oil_essence");
     public static ModItem peridotEssence = new ModItem("peridot_essence");
     public static ModItem pigEssence = new ModItem("pig_essence");
     public static ModItem platinumEssence = new ModItem("platinum_essence");
@@ -61,6 +65,7 @@ public class ModItems {
     public static ModItem sapphireEssence = new ModItem("sapphire_essence");
     public static ModItem sheepEssence = new ModItem("sheep_essence");
     public static ModItem shulkerEssence = new ModItem("shulker_essence");
+    public static ModItem signalumEssence = new ModItem("signalum_essence");
     public static ModItem silverEssence = new ModItem("silver_essence");
     public static ModItem skeletonEssence = new ModItem("skeleton_essence");
     public static ModItem slimeEssence = new ModItem("slime_essence");
@@ -94,6 +99,7 @@ public class ModItems {
     public static ModSeed chickenSprout = new ModSeed("chicken_sprout", ModBlocks.chickenCrop);
     public static ModSeed coalSprout = new ModSeed("coal_sprout", ModBlocks.coalCrop);
     public static ModSeed cobaltSprout = new ModSeed("cobalt_sprout", ModBlocks.cobaltCrop);
+    public static ModSeed constantanSprout = new ModSeed("constantan_sprout", ModBlocks.constantanCrop);
     public static ModSeed copperSprout = new ModSeed("copper_sprout", ModBlocks.copperCrop);
     public static ModSeed cowSprout = new ModSeed("cow_sprout", ModBlocks.cowCrop);
     public static ModSeed creeperSprout = new ModSeed("creeper_sprout", ModBlocks.creeperCrop);
@@ -103,6 +109,7 @@ public class ModItems {
     public static ModSeed electrumSprout = new ModSeed("electrum_sprout", ModBlocks.electrumCrop);
     public static ModSeed emeraldSprout = new ModSeed("emerald_sprout", ModBlocks.emeraldCrop);
     public static ModSeed endermanSprout = new ModSeed("enderman_sprout", ModBlocks.endermanCrop);
+    public static ModSeed enderiumSprout = new ModSeed("enderium_sprout", ModBlocks.enderiumCrop);
     public static ModSeed experienceSprout = new ModSeed("experience_sprout", ModBlocks.experienceCrop);
     public static ModSeed fireSprout = new ModSeed("fire_sprout", ModBlocks.fireCrop);
     public static ModSeed fishSprout = new ModSeed("fish_sprout", ModBlocks.fishCrop);
@@ -115,11 +122,13 @@ public class ModItems {
     public static ModSeed ironSprout = new ModSeed("iron_sprout", ModBlocks.ironCrop);
     public static ModSeed lapisSprout = new ModSeed("lapis_sprout", ModBlocks.lapisCrop);
     public static ModSeed leadSprout = new ModSeed("lead_sprout", ModBlocks.leadCrop);
+    public static ModSeed lumiumSprout = new ModSeed("lumium_sprout", ModBlocks.lumiumCrop);
     public static ModSeed malachiteSprout = new ModSeed("malachite_sprout", ModBlocks.malachiteCrop);
     public static ModSeed manyullynSprout = new ModSeed("manyullyn_sprout", ModBlocks.manyullynCrop);
     public static ModSeed natureSprout = new ModSeed("nature_sprout", ModBlocks.natureCrop);
     public static ModSeed netherSprout = new ModSeed("nether_sprout", ModBlocks.netherCrop);
     public static ModSeed nickelSprout = new ModSeed("nickel_sprout", ModBlocks.nickelCrop);
+    public static ModSeed oilSprout = new ModSeed("oil_sprout", ModBlocks.oilCrop);
     public static ModSeed peridotSprout = new ModSeed("peridot_sprout", ModBlocks.peridotCrop);
     public static ModSeed pigSprout = new ModSeed("pig_sprout", ModBlocks.pigCrop);
     public static ModSeed platinumSprout = new ModSeed("platinum_sprout", ModBlocks.platinumCrop);
@@ -131,6 +140,7 @@ public class ModItems {
     public static ModSeed sapphireSprout = new ModSeed("sapphire_sprout", ModBlocks.sapphireCrop);
     public static ModSeed sheepSprout = new ModSeed("sheep_sprout", ModBlocks.sheepCrop);
     public static ModSeed shulkerSprout = new ModSeed("shulker_sprout", ModBlocks.shulkerCrop);
+    public static ModSeed signalumSprout = new ModSeed("signalum_sprout", ModBlocks.signalumCrop);
     public static ModSeed silverSprout = new ModSeed("silver_sprout", ModBlocks.silverCrop);
     public static ModSeed skeletonSprout = new ModSeed("skeleton_sprout", ModBlocks.skeletonCrop);
     public static ModSeed slimeSprout = new ModSeed("slime_sprout", ModBlocks.slimeCrop);
@@ -191,6 +201,7 @@ public class ModItems {
                 chickenEssence,
                 coalEssence,
                 cobaltEssence,
+                constantanEssence,
                 copperEssence,
                 cowEssence,
                 creeperEssence,
@@ -200,6 +211,7 @@ public class ModItems {
                 electrumEssence,
                 emeraldEssence,
                 endermanEssence,
+                enderiumEssence,
                 experienceEssence,
                 fireEssence,
                 fishEssence,
@@ -212,11 +224,13 @@ public class ModItems {
                 ironEssence,
                 lapisEssence,
                 leadEssence,
+                lumiumEssence,
                 malachiteEssence,
                 manyullynEssence,
                 natureEssence,
                 netherEssence,
                 nickelEssence,
+                oilEssence,
                 peridotEssence,
                 pigEssence,
                 platinumEssence,
@@ -228,6 +242,7 @@ public class ModItems {
                 sapphireEssence,
                 sheepEssence,
                 shulkerEssence,
+                signalumEssence,
                 silverEssence,
                 skeletonEssence,
                 slimeEssence,
@@ -259,6 +274,7 @@ public class ModItems {
                 chickenSprout,
                 coalSprout,
                 cobaltSprout,
+                constantanSprout,
                 copperSprout,
                 cowSprout,
                 creeperSprout,
@@ -268,6 +284,7 @@ public class ModItems {
                 electrumSprout,
                 emeraldSprout,
                 endermanSprout,
+                enderiumSprout,
                 experienceSprout,
                 fireSprout,
                 fishSprout,
@@ -280,11 +297,13 @@ public class ModItems {
                 ironSprout,
                 lapisSprout,
                 leadSprout,
+                lumiumSprout,
                 malachiteSprout,
                 manyullynSprout,
                 natureSprout,
                 netherSprout,
                 nickelSprout,
+                oilSprout,
                 peridotSprout,
                 pigSprout,
                 platinumSprout,
@@ -296,6 +315,7 @@ public class ModItems {
                 sapphireSprout,
                 sheepSprout,
                 shulkerSprout,
+                signalumSprout,
                 silverSprout,
                 skeletonSprout,
                 slimeSprout,
@@ -355,6 +375,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(chickenEssence,  0, new ModelResourceLocation(chickenEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(coalEssence,  0, new ModelResourceLocation(coalEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(cobaltEssence,  0, new ModelResourceLocation(cobaltEssence.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(constantanEssence,  0, new ModelResourceLocation(constantanEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(copperEssence,  0, new ModelResourceLocation(copperEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(cowEssence,  0, new ModelResourceLocation(cowEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(creeperEssence,  0, new ModelResourceLocation(creeperEssence.getRegistryName(), "inventory"));
@@ -364,6 +385,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(electrumEssence,  0, new ModelResourceLocation(electrumEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(emeraldEssence,  0, new ModelResourceLocation(emeraldEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(endermanEssence,  0, new ModelResourceLocation(endermanEssence.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(enderiumEssence,  0, new ModelResourceLocation(enderiumEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(experienceEssence,  0, new ModelResourceLocation(experienceEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(fireEssence,  0, new ModelResourceLocation(fireEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(fishEssence,  0, new ModelResourceLocation(fishEssence.getRegistryName(), "inventory"));
@@ -376,11 +398,13 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(ironEssence,  0, new ModelResourceLocation(ironEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(lapisEssence,  0, new ModelResourceLocation(lapisEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(leadEssence,  0, new ModelResourceLocation(leadEssence.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(lumiumEssence,  0, new ModelResourceLocation(lumiumEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(malachiteEssence,  0, new ModelResourceLocation(malachiteEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(manyullynEssence,  0, new ModelResourceLocation(manyullynEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(natureEssence,  0, new ModelResourceLocation(natureEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(netherEssence,  0, new ModelResourceLocation(netherEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(nickelEssence,  0, new ModelResourceLocation(nickelEssence.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(oilEssence,  0, new ModelResourceLocation(oilEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(peridotEssence,  0, new ModelResourceLocation(peridotEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(pigEssence,  0, new ModelResourceLocation(pigEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(platinumEssence,  0, new ModelResourceLocation(platinumEssence.getRegistryName(), "inventory"));
@@ -392,6 +416,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(sapphireEssence,  0, new ModelResourceLocation(sapphireEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(sheepEssence,  0, new ModelResourceLocation(sheepEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(shulkerEssence,  0, new ModelResourceLocation(shulkerEssence.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(signalumEssence,  0, new ModelResourceLocation(signalumEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(silverEssence,  0, new ModelResourceLocation(silverEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(skeletonEssence,  0, new ModelResourceLocation(skeletonEssence.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(slimeEssence,  0, new ModelResourceLocation(slimeEssence.getRegistryName(), "inventory"));
@@ -425,6 +450,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(chickenSprout,  0, new ModelResourceLocation(chickenSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(coalSprout,  0, new ModelResourceLocation(coalSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(cobaltSprout,  0, new ModelResourceLocation(cobaltSprout.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(constantanSprout,  0, new ModelResourceLocation(constantanSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(copperSprout,  0, new ModelResourceLocation(copperSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(cowSprout,  0, new ModelResourceLocation(cowSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(creeperSprout,  0, new ModelResourceLocation(creeperSprout.getRegistryName(), "inventory"));
@@ -434,6 +460,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(electrumSprout,  0, new ModelResourceLocation(electrumSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(emeraldSprout,  0, new ModelResourceLocation(emeraldSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(endermanSprout,  0, new ModelResourceLocation(endermanSprout.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(enderiumSprout,  0, new ModelResourceLocation(enderiumSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(experienceSprout,  0, new ModelResourceLocation(experienceSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(fireSprout,  0, new ModelResourceLocation(fireSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(fishSprout,  0, new ModelResourceLocation(fishSprout.getRegistryName(), "inventory"));
@@ -446,11 +473,13 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(ironSprout,  0, new ModelResourceLocation(ironSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(lapisSprout,  0, new ModelResourceLocation(lapisSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(leadSprout,  0, new ModelResourceLocation(leadSprout.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(lumiumSprout,  0, new ModelResourceLocation(lumiumSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(malachiteSprout,  0, new ModelResourceLocation(malachiteSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(manyullynSprout,  0, new ModelResourceLocation(manyullynSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(natureSprout,  0, new ModelResourceLocation(natureSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(netherSprout,  0, new ModelResourceLocation(netherSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(nickelSprout,  0, new ModelResourceLocation(nickelSprout.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(oilSprout,  0, new ModelResourceLocation(oilSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(peridotSprout,  0, new ModelResourceLocation(peridotSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(pigSprout,  0, new ModelResourceLocation(pigSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(platinumSprout,  0, new ModelResourceLocation(platinumSprout.getRegistryName(), "inventory"));
@@ -462,6 +491,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(sapphireSprout,  0, new ModelResourceLocation(sapphireSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(sheepSprout,  0, new ModelResourceLocation(sheepSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(shulkerSprout,  0, new ModelResourceLocation(shulkerSprout.getRegistryName(), "inventory"));
+        ModelLoader.setCustomModelResourceLocation(signalumSprout,  0, new ModelResourceLocation(signalumSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(silverSprout,  0, new ModelResourceLocation(silverSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(skeletonSprout,  0, new ModelResourceLocation(skeletonSprout.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(slimeSprout,  0, new ModelResourceLocation(slimeSprout.getRegistryName(), "inventory"));

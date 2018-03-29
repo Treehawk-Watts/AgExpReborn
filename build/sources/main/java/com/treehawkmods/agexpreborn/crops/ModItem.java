@@ -6,7 +6,7 @@ import net.minecraft.item.Item;
 public class ModItem extends Item {
 
     public ModItem(String name){
-        setUnlocalizedName(name);
+        setUnlocalizedName(AgExpReborn.MODID + "." + name);
         setRegistryName(name);
         setCreativeTab(AgExpReborn.MODTAB);
     }

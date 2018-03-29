@@ -1,36 +1,46 @@
 Symbol range map extraction starting
 Processing 11 files
-startProcessing "com\treehawkmods\agexpreborn\AgExpReborn.java" md5: 962e14dc135631f7494a725b3e33ed5b
+startProcessing "com\treehawkmods\agexpreborn\AgExpReborn.java" md5: b3e0a23fae3e219988c1c15a348c75b6
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\AgExpReborn.java"
 
 startProcessing "com\treehawkmods\agexpreborn\ClientProxy.java" md5: bfb3161b207b49abc323b4cd8b9b0376
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\ClientProxy.java"
 
 startProcessing "com\treehawkmods\agexpreborn\CommonProxy.java" md5: 0fdb47428887580299eef5bca4025421
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\CommonProxy.java"
 
 startProcessing "com\treehawkmods\agexpreborn\ModTab.java" md5: 91732216a3a4842ec81dcfa547cc1ea3
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\ModTab.java"
 
 startProcessing "com\treehawkmods\agexpreborn\ServerProxy.java" md5: 07e979415d76149c3a575fd94f01a55d
 Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\ServerProxy.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModBlocks.java" md5: 986470475ff0d56581f85aac7809e734
+startProcessing "com\treehawkmods\agexpreborn\crops\ModBlocks.java" md5: 9ccc8bca929b47687efc70827088e4d4
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModBlocks.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModCrop.java" md5: 23607be9c648e076d5e040eb4caa0c73
+startProcessing "com\treehawkmods\agexpreborn\crops\ModCrop.java" md5: 0b528c11611f32fc9016fb8f29b99bf1
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModCrop.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModCrops.java" md5: e471de15734f0eabccc33b718b3bfa58
+startProcessing "com\treehawkmods\agexpreborn\crops\ModCrops.java" md5: f3d13c4b6ff4cec5f3620a38f18be898
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModCrops.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModItem.java" md5: eb47cddb9872cff7341fb80ca1d7353e
+startProcessing "com\treehawkmods\agexpreborn\crops\ModItem.java" md5: 0f18afd822a08d833ccbcd081b2e83a1
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModItem.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModItems.java" md5: f30d5167c6f429989d21547358b52890
+startProcessing "com\treehawkmods\agexpreborn\crops\ModItems.java" md5: c68fa2effa06c12d8071333686bf508e
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModItems.java"
 
-startProcessing "com\treehawkmods\agexpreborn\crops\ModSeed.java" md5: ac75fae66780fd3d2410cc39c93e6490
+startProcessing "com\treehawkmods\agexpreborn\crops\ModSeed.java" md5: 1e97da165d6727b116a9ac3794989a81
+Cache Hit!
 endProcessing "com\treehawkmods\agexpreborn\crops\ModSeed.java"
 

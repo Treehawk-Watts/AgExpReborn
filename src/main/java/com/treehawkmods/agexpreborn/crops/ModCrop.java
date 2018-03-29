@@ -7,7 +7,7 @@ import net.minecraft.item.Item;
 public class ModCrop extends BlockCrops{
 
     public ModCrop (String name){
-        setUnlocalizedName(name);
+        setUnlocalizedName(AgExpReborn.MODID + "." + name);
         setRegistryName(name);
         setCreativeTab(AgExpReborn.MODTAB);
     }
