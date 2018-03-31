@@ -1,17 +1,15 @@
 {
 	"type": "minecraft:crafting_shaped",
     "pattern": [
-        "XXX",
-        "X X",
         "XXX"
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:nature_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:waterlily",
+		"amount": 2
     }
 }

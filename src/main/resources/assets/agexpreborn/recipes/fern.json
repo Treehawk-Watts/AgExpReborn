@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X",
+		"X"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:nature_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:tallgrass",
+		"data": 2,
+		"amount": 2
+    }
+}

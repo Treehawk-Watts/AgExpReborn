@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+		"EEE",
+		"NNN"
+    ],
+    "key": {
+        "N": {
+            "item": "agexpreborn:nature_essence"
+        },
+		"E": {
+			"item": "agexpreborn:earth_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:mycelium",
+		"amount": 8
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        "EHE",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "item": "agexpreborn:earth_essence"
+        },
+        "H": {
+            "item": "agexpreborn:nether_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherrack",
+		"amount": 8
+    }
+}

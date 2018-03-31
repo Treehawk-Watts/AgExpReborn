@@ -7,11 +7,11 @@
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:blaze_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:blaze_rod",
+        "amount": 3
     }
 }

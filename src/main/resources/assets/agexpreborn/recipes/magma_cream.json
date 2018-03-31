@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+		"SHS",
+		"SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "agexpreborn:slime_essence"
+        },
+		"H": {
+			"item": "agexpreborn:nether_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:magma_cream",
+		"amount": 3
+    }
+}

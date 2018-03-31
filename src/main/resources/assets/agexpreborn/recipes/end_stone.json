@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+		"ENE",
+		"EEE"
+    ],
+    "key": {
+        "N": {
+            "item": "agexpreborn:enderman_essence"
+        },
+		"E": {
+			"item": "agexpreborn:earth_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:end_stone",
+		"amount": 8
+    }
+}

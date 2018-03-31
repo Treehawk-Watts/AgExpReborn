@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "E E",
+        "EEE",
+        "E E"
+    ],
+    "key": {
+        "E": {
+            "item": "agexpreborn:earth_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:gravel",
+		"amount": 8
+    }
+}

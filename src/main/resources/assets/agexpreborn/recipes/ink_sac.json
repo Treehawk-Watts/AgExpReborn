@@ -7,11 +7,12 @@
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:squid_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:dye",
+		"data": 0,
+        "amount": 4
     }
 }

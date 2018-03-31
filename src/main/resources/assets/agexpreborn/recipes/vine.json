@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X",
+		"X",
+		"X"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:nature_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:vine",
+		"amount": 2
+    }
+}

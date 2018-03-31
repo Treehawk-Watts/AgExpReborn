@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HHH",
+        "HEH",
+        "HHH"
+    ],
+    "key": {
+        "E": {
+            "item": "agexpreborn:earth_essence"
+        },
+        "H": {
+            "item": "agexpreborn:nether_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_sand",
+		"amount": 8
+    }
+}

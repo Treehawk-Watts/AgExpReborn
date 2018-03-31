@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+		"GWG",
+		"GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "agexpreborn:guardian_essence"
+        },
+		"W": {
+			"item": "agexpreborn:water_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:sponge",
+		"data": 1
+    }
+}

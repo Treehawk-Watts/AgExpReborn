@@ -1,17 +1,17 @@
 {
 	"type": "minecraft:crafting_shaped",
     "pattern": [
-        "XXX",
         "X X",
-        "XXX"
+        "XXX",
+        "X X"
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:spider_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:spider_eye",
+        "amount": 4
     }
 }

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WBW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "agexpreborn:water_essence"
+        },
+		"B": {
+			"item": "minecraft:bucket"
+		}
+    },
+    "result": {
+        "item": "minecraft:water_bucket"
+    }
+}

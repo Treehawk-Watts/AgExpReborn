@@ -3,15 +3,16 @@
     "pattern": [
         "XXX",
         "X X",
-        "XXX"
+		"XXX"
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:nature_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:leaves",
+		"data": 0,
+		"amount": 8
     }
 }

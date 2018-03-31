@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+		"W W",
+		"WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "agexpreborn:wither_essence"
+        }
+    },
+    "result": {
+        "item": "withershards:shard_nether_star",
+		"amount": 1
+    }
+}

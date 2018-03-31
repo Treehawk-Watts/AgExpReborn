@@ -1,17 +1,17 @@
 {
 	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"XXX",
-		"X X",
-		"XXX"
-	],
-	"key": {
-		"X": {
-			"item": "agexpreborn:iron_essence"
-		}
-	},
-	"result": {
-		"type": "forge:ore_dict",
-		"ore": "ingotIron"
-	}
+    "pattern": [
+        "XXX",
+        "X X",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:iron_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "amount": 2
+    }
 }

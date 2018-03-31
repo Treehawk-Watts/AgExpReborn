@@ -7,11 +7,12 @@
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:coal_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
-        "amount": 2
+        "item": "minecraft:coal",
+		"data": 0,
+        "amount": 4
     }
 }

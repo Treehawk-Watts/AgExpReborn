@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X X",
+        "XXX",
+        "X X"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:guardian_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:prismarine_crystals",
+        "amount": 3
+    }
+}

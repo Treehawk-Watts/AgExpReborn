@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F F",
+		"FFF",
+		"F F"
+    ],
+    "key": {
+        "F": {
+            "item": "agexpreborn:fish_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:fish",
+		"data": 0,
+		"amount": 4
+    }
+}

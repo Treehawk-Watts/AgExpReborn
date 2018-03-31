@@ -5,6 +5,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.oredict.OreDictionary;
 
 @Mod(modid = AgExpReborn.MODID, name = AgExpReborn.MODNAME, version = AgExpReborn.MODVERSION)
 public class AgExpReborn {
@@ -23,6 +24,10 @@ public class AgExpReborn {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e){
+        String[] strings = OreDictionary.getOreNames();
+        for (String string:strings){
+            System.out.println(string);
+        }
         proxy.preInit(e);
     }
 

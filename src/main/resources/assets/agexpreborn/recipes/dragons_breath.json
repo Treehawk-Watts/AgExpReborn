@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+		"DBD",
+		"DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "agexpreborn:dragon_essence"
+        },
+		"B": {
+			"item": "minecraft:glass_bottle"
+		}
+    },
+    "result": {
+        "item": "minecraft:dragon_breath"
+    }
+}

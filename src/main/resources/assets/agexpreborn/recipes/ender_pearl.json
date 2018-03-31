@@ -7,11 +7,11 @@
     ],
     "key": {
         "X": {
-            "item": "agexpreborn:iron_essence"
+            "item": "agexpreborn:enderman_essence"
         }
     },
     "result": {
-        "item": "minecraft:iron_ingot",
+        "item": "minecraft:ender_pearl",
         "amount": 2
     }
 }

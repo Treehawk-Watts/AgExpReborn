@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "B B",
+		"BBB",
+		"B B"
+    ],
+    "key": {
+        "B": {
+            "item": "agexpreborn:blitz_essence"
+        }
+    },
+    "result": {
+        "item": "thermalfoundation:material",
+		"data": 772,
+		"amount": 2
+    }
+}

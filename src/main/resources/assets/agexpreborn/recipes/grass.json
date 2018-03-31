@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        "ENE",
+        "EEE"
+    ],
+    "key": {
+        "E": {
+            "item": "agexpreborn:earth_essence"
+        },
+		"N": {
+			"item": "agexpreborn:nature_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:grass",
+		"amount": 8
+    }
+}

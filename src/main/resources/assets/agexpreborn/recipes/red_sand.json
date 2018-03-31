@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+		" F ",
+		"EEE"
+    ],
+    "key": {
+        "F": {
+            "item": "agexpreborn:fire_essence"
+        },
+		"E": {
+			"item": "agexpreborn:earth_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:sand",
+		"data": 1,
+		"amount": 8
+    }
+}

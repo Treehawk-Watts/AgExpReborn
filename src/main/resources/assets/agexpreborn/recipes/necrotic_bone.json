@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W W",
+		"WWW",
+		"W W"
+    ],
+    "key": {
+        "W": {
+            "item": "agexpreborn:witherskel_essence"
+        }
+    },
+    "result": {
+        "item": "tconstruct:materials",
+		"data": 17,
+		"amount": 2
+    }
+}

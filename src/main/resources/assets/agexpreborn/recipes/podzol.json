@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NNN",
+		"EEE",
+		"EEE"
+    ],
+    "key": {
+        "N": {
+            "item": "agexpreborn:nature_essence"
+        },
+		"E": {
+			"item": "agexpreborn:earth_essence"
+		}
+    },
+    "result": {
+        "item": "minecraft:dirt",
+		"data": 2,
+		"amount": 8
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FFF",
+        "FBF",
+		"FFF"
+    ],
+    "key": {
+        "F": {
+            "item": "agexpreborn:fire_essence"
+        },
+		"B": {
+			"item": "minecraft:bucket"
+		}
+    },
+    "result": {
+        "item": "minecraft:lava_bucket"
+    }
+}
