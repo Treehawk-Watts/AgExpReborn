@@ -14,7 +14,7 @@ public class AgExpReborn {
 
     public final static String MODID = "agexpreborn";
     public final static String MODNAME = "Agricultural Expansion Reborn";
-    public final static String MODVERSION = "1.12.2-0.0.1";
+    public final static String MODVERSION = "1.12.2-0.1.0";
 
     public static final ModTab MODTAB = new ModTab();
 
