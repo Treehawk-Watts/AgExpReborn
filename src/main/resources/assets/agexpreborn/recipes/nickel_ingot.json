@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "X X",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:nickel_essence"
+        }
+    },
+    "result": {
+        "item": "thermalfoundation:material",
+		"data": 133,
+		"count": 2
+    }
+}

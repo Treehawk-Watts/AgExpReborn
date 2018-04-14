@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XBX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:oil_essence"
+        },
+		"B": {
+			"item": "minecraft:bucket"
+		}
+    },
+    "result": {
+        "item": "forge:bucketfilled",
+		"nbt": {
+			"FluidName": "crude_oil",
+			"Amount": 1000
+		}
+    }
+}

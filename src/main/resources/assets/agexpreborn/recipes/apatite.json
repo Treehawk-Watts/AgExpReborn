@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XBX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:apatite_essence"
+        }
+    },
+    "result": {
+        "item": "forestry:apatite",
+		"amount": 4
+    }
+}

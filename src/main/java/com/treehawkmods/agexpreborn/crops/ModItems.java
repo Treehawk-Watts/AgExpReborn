@@ -160,6 +160,7 @@ public class ModItems {
     public static ModSeed zombieSprout = new ModSeed("zombie_sprout", ModBlocks.zombieCrop);
 
     //chunk items
+    /*
     public static ModItem basalzChunk = new ModItem("basalz_chunk");
     public static ModItem blazeChunk = new ModItem("blaze_chunk");
     public static ModItem blitzChunk = new ModItem("blitz_chunk");
@@ -183,6 +184,7 @@ public class ModItems {
     public static ModItem witherChunk = new ModItem("wither_chunk");
     public static ModItem witherskelChunk = new ModItem("witherskel_chunk");
     public static ModItem zombieChunk = new ModItem("zombie_chunk");
+    */
 
     @SubscribeEvent
     public static void init(RegistryEvent.Register<Item> event){
@@ -332,7 +334,7 @@ public class ModItems {
                 witherSprout,
                 witherskelSprout,
                 zincSprout,
-                zombieSprout,
+                zombieSprout/*,
                 basalzChunk,
                 blazeChunk,
                 blitzChunk,
@@ -355,7 +357,7 @@ public class ModItems {
                 squidChunk,
                 witherChunk,
                 witherskelChunk,
-                zombieChunk
+                zombieChunk*/
         );
     }
 
@@ -511,6 +513,7 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(zombieSprout,  0, new ModelResourceLocation(zombieSprout.getRegistryName(), "inventory"));
 
         //chunks
+        /*
         ModelLoader.setCustomModelResourceLocation(basalzChunk,  0, new ModelResourceLocation(basalzChunk.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(blazeChunk,  0, new ModelResourceLocation(blazeChunk.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(blitzChunk,  0, new ModelResourceLocation(blitzChunk.getRegistryName(), "inventory"));
@@ -534,5 +537,6 @@ public class ModItems {
         ModelLoader.setCustomModelResourceLocation(witherChunk,  0, new ModelResourceLocation(witherChunk.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(witherskelChunk,  0, new ModelResourceLocation(witherskelChunk.getRegistryName(), "inventory"));
         ModelLoader.setCustomModelResourceLocation(zombieChunk,  0, new ModelResourceLocation(zombieChunk.getRegistryName(), "inventory"));
+        */
     }
 }

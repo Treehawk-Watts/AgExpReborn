@@ -7,6 +7,8 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.oredict.OreDictionary;
 
+import java.io.File;
+
 @Mod(modid = AgExpReborn.MODID, name = AgExpReborn.MODNAME, version = AgExpReborn.MODVERSION)
 public class AgExpReborn {
 

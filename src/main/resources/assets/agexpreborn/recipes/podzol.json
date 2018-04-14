@@ -16,6 +16,6 @@
     "result": {
         "item": "minecraft:dirt",
 		"data": 2,
-		"amount": 8
+		"count": 8
     }
 }

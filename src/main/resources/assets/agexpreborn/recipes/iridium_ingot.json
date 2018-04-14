@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "X X",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:iridium_essence"
+        }
+    },
+    "result": {
+        "item": "thermalfoundation:material",
+		"data": 135,
+		"count": 2
+    }
+}

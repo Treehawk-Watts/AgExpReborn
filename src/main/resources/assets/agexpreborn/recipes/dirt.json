@@ -13,6 +13,6 @@
     "result": {
         "item": "minecraft:dirt",
 		"data": 0,
-		"amount": 8
+		"count": 8
     }
 }

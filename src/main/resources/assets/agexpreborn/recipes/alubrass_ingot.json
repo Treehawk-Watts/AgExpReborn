@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "X X",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "agexpreborn:alubrass_essence"
+        }
+    },
+    "result": {
+        "item": "tconstruct:ingots",
+		"data": 5,
+        "count": 2
+    }
+}
